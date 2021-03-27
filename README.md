@@ -1,5 +1,5 @@
 # SwissArmyKnife
-##Diya Patel
+## Diya Patel
 ## Email: diyapatel@lewisu.edu
 
 #### Overview: This is a command-line application that implements a variety of function focused on distributed computing and web services.
