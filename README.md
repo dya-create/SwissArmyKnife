@@ -4,9 +4,10 @@
 
 #### Overview: This is a command-line application that implements a variety of function focused on distributed computing and web services.
 
+#### Credits: git clone --depth=1 https://github.com/EricJPogue/cpsc-example-code.git (HttpRequest.java)
 #### Installation: There are four files required to run this application. 
                   1) Help.java 
-                  2) HttpRequest.java
+                  2) HttpRequest.java (see credits section for the credits of the source code)
                   3) HttpRequestIndex.java
                   4) sak.java
 
@@ -20,13 +21,10 @@ Provides fully tested copy/paste examples of each application feature
 Is implemented in a separate source code file
 
 Responds to the “-HttpRequestIndex [URL]” command-line parameter assuming case insensitivity
-Opens the following JSON index file[link]
+Opens the JSON index file
 Parses the index file for the additional URLs
 Retrieves the data from each additional URL
 Prints the index data followed by each individual URL data elegantly to the command-line
 Is implemented in a separate source code file
-
-
-
 
 For Licence: This project is licensed under MIT Licence. Please see License file for more details.
